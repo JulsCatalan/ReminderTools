@@ -2,8 +2,6 @@
 
 [Visit Remindertools.com](https://remindertools.com/)
 
-![Preview of Remindertools](https://remindertools.com/remindertools_cozy_landing.png)
-
 This is a **MERN stack** application built to manage user authentication, tasks, and other functionality. The application uses **React** for the frontend, **Node.js/Express** for the backend, **MongoDB** as the database, and **JWT** for secure authentication.
 
 ---
