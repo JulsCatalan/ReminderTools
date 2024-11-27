@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #202020;
+    color: white;
+  }
+
+  /* Scrollbar */
+::-webkit-scrollbar {
+  width: 12px; /* Ancho del scrollbar */
+}
+
+/* Fondo del track */
+::-webkit-scrollbar-track {
+  background: #202020; /* Negro */
+}
+
+/* Thumb (parte que se desliza) */
+::-webkit-scrollbar-thumb {
+  background: #4338ca; /* bg-indigo-700 */
+  border-radius: 6px; /* Bordes redondeados */
+}
+
+/* Hover en el thumb */
+::-webkit-scrollbar-thumb:hover {
+  background: #3730a3; /* Más oscuro para hover */
+}
