@@ -1,4 +1,4 @@
-# MERN Application
+# ReminderTools MERN Application
 
 [Visit Remindertools.com](https://remindertools.com/)
 
