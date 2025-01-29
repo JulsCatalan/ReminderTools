@@ -4,6 +4,8 @@
 
 This is a **MERN stack** application built to manage user authentication, tasks, and other functionality. The application uses **React** for the frontend, **Node.js/Express** for the backend, **MongoDB** as the database, and **JWT** for secure authentication.
 
+Note: The project was deployed on a free Render server, so after a certain period without active users, the instance is deactivated until a user accesses the site again. Due to this, if you visit the site, it is likely to take 50 seconds or more to load due to Render.com's policies.
+
 ---
 
 ## Features
